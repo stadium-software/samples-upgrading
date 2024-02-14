@@ -24,7 +24,7 @@ For all repos you want to use in a given applications, perform the following ste
 ## Updating module assets
 Release notes can be found in each respective repo. Review these before updating a module. 
 
-<div style="display: inline-block;border: 1px solid white;"><img src="images/VersionInfo.png"></div>
+<img style="display: inline-block;border: 1px solid white;" src="images/VersionInfo.png">
 
 In order to update a module:
 
