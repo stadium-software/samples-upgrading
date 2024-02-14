@@ -16,6 +16,9 @@ For all repos you want to use in a given applications, perform the following ste
    1. Add or remove empty lines in the CSS files or the Javascript
    2. Do not add new variables to the CSS files
    3. Do not remove any of the existing variables from the CSS files
+
+![](images/EditableElements.png)
+
 4. Implement the CSS and the Javascript in your application as described in the respective repo
 
 ## Updating module assets
