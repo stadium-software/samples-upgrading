@@ -15,12 +15,16 @@ For all repos you want to use in a given applications, perform the following ste
    3. Do not remove any of the existing variables from the CSS files
 4. Implement the CSS and the Javascript in your application as described in the respective repo
 
+![](images/ApplicationExplorerView.png)
+
 ## Updating module assets
 Release notes can be found in each respective repo. Review these before updating a module. 
 
+![](images/VersionInfo.png)
+
 In order to update a module:
 
-1. Commit changes to the CSS variables file 
+1. Commit changes you made to the CSS variables file 
 2. Pull the latest repo
 3. Merge all changes (If you have made changes beyond the variables, you will now have to deal with merge conflicts. This can be a terribly annoying and somewhat messy operation. In this case I recommend that you backup your changes first.)
 4. Finally
@@ -29,9 +33,11 @@ In order to update a module:
    3. Copy the updated Javascript into the script in your application as described in the respective repo
 
 ### Updating Javascript
-All Javascript starts with a version comment. If the version of this script you are using in your application is different, you may want to update the script. Sometimes newer versions of scripts require more or fewer parameters. 
+All Javascript starts with a version comment. If the version of this script you are using in your application is different, you may want to update the script. Please note that sometimes newer versions of scripts require more or fewer parameters. 
+
+![](images/ScriptVersion.png)
 
 ## Repo bugs
-I am happy about every bug we find as it gives me the opportunity to make the module better! If you find a bug in a module, please let me know by logging an issue in the Github Issues of the respective repo. 
+I am happy about every bug we find as it gives me the opportunity to make the module better! If you find a bug in a module, please let me know by [logging an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) in the Github Issues section of the respective repo. 
  
-If you feel you can change the code yourself, please send me a merge request and I will review your fix! 
+If you feel you can change the code yourself, please [add a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request-with-a-merge-queue#adding-a-pull-request-to-a-merge-queue) and I will review your fix! 
