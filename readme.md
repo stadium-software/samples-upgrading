@@ -9,7 +9,7 @@ For all repos you want to use in a given applications, perform the following ste
 
 1. Make a clone of each repo specifically for the application you want to develop
 
-![](images/ApplicationExplorerView.png)
+![](images/ApplicationExplorer.png)
 
 2. Change ONLY the variables in the CSS variables file, usually called something like *module-variables.css*
 3. Do not 
