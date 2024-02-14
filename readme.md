@@ -7,15 +7,16 @@ Please do not make changes to either the Javascript nor the styles in the CSS fi
 ## Working with repos
 For all repos you want to use in a given applications, perform the following steps:
 
-1. Make a clone of the repo specifically for the application you want to develop
+1. Make a clone of each repo specifically for the application you want to develop
+
+![](images/ApplicationExplorerView.png)
+
 2. Change ONLY the variables in the CSS variables file, usually called something like *module-variables.css*
 3. Do not 
    1. Add or remove empty lines in the CSS files or the Javascript
    2. Do not add new variables to the CSS files
    3. Do not remove any of the existing variables from the CSS files
 4. Implement the CSS and the Javascript in your application as described in the respective repo
-
-![](images/ApplicationExplorerView.png)
 
 ## Updating module assets
 Release notes can be found in each respective repo. Review these before updating a module. 
