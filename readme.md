@@ -24,7 +24,7 @@ For all repos you want to use in a given applications, perform the following ste
 ## Updating module assets
 Release notes can be found in each respective repo. Review these before updating a module. 
 
-<img src="images/VersionInfo.png">
+![](images/VersionInfo.png)
 
 In order to update a module:
 
@@ -39,7 +39,7 @@ In order to update a module:
 ### Updating Javascript
 All Javascript starts with a version comment. If the version of this script you are using in your application is different, you may want to update the script. Please note that sometimes newer versions of scripts require more or fewer parameters. 
 
-![](images/ScriptVersion.png)
+![](images/ScriptVersions.png)
 
 ## Repo bugs
 I am happy about every bug we find as it gives me the opportunity to make the module better! If you find a bug in a module, please let me know by [logging an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) in the Github Issues section of the respective repo. 
