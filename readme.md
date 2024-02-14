@@ -1,6 +1,8 @@
 # Using and updating application repos
 
-Most repos come with Javascript and CSS files that are occasionally updated to fix bugs and add features. Users of these repos are discouraged from making any changes to either the Javascript nor the styles in the CSS files. The only customisations that are encouraged are the changing of variable values in the css variables files as explained below. 
+Most repos come with Javascript and CSS files that are occasionally updated to fix bugs and add features. 
+
+Please do not make changes to either the Javascript nor the styles in the CSS files. The only customisation that is encouraged is the changing of variable values in the css variables files as explained below. 
 
 ## Working with repos
 For all repos you want to use in a given applications, perform the following steps:
