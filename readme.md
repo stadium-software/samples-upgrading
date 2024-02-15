@@ -1,6 +1,6 @@
 # Using and updating application repos
 
-Most [module repos](https://github.com/stadium-software/modules) are occasionally updated to fix bugs and add features. 
+This document pertains to all repos listed on the [module repos](https://github.com/stadium-software/modules) page.  
 
 ## Working with repos
 For all repos you want to use in a given applications, perform the following steps:
@@ -20,11 +20,13 @@ For all repos you want to use in a given applications, perform the following ste
 4. Implement the CSS and the Javascript in your application as described in the respective repo
 
 ## Updating module assets
-Please do not make changes to either the Javascript nor the styles in the CSS files. The only customisation that is encouraged is the changing of variable values in the css variables files as explained here. If you find a bug, please [report it](#repo-bugs)
-
-Release notes can be found in each respective repo. Review these before updating a module. 
+Repos are occasionally updated to fix bugs and add features. Release notes can be found in each respective repo. Review these before updating a module. 
 
 ![](images/VersionInfo.png)
+
+**IMPORTANT**
+
+Please do not make changes to either the Javascript nor the styles in the CSS files. The only customisation that is encouraged is the changing of variable values in the css variables files as explained here. If you find a bug, please [report it](#repo-bugs)
 
 In order to update a module:
 
