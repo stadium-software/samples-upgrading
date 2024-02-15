@@ -1,11 +1,18 @@
 # Using and updating application repos
 
-This document pertains to all repos listed on the [module repos](https://github.com/stadium-software/modules) page.  
+This document pertains to all repos listed on the [module repos](https://github.com/stadium-software/modules) page. 
+
+## Prerequisites
+The most convenient way to work with Github repos is to use [Git](https://education.github.com/git-cheat-sheet-education.pdf). Install it if you don't have it yet. 
 
 ## Working with repos
 For all repos you want to use in a given applications, perform the following steps:
 
 1. Make a clone of each repo specifically for the application you want to develop
+   1. Open a command prompt in the folder where the repo should be placed
+   2. Enter 'git clone \[url]' as shown below
+
+![](images/GitClone.png)
 
 ![](images/ApplicationExplorer.png)
 
@@ -30,12 +37,27 @@ Please do not make changes to either the Javascript nor the styles in the CSS fi
 
 In order to update a module:
 
-1. Commit changes you made to the CSS variables file 
-2. Pull the latest repo
-3. Merge all changes (If you have made changes beyond the variables, you will now have to deal with merge conflicts. This can be a terribly annoying and somewhat messy operation. In this case I recommend that you backup your changes first.)
-4. Finally
-   1. Copy the updated CSS files into the application as described in the respective repo
-   2. Select "Overwrite" when prompted in Stadium
+1. Open a command prompt in the repo folder
+2. Check the repo for changes using 'git status' (The *CSS variables* file should be the ony one with changes)
+3. Stage the updated files using 'git add \[file]'
+
+![](images/GitAddFile.png)
+
+4. Commit changes you made to the CSS variables file using 'git commit -m "my message"'
+
+![](images/GitCommit.png)
+
+5. Pull the latest repo using 'git pull'
+
+![](images/GitPull.png)
+
+6. Merge changes if necessary (If you have made changes beyond the variables, you will now have to deal with merge conflicts. This can be a terribly annoying and somewhat messy operation. In this case I recommend that you backup your changes first.)
+
+![]()
+
+7. Finally
+   1. Copy all updated CSS files into the application as described in the respective repo
+   2. Select 'Overwrite' when prompted in Stadium
    3. Copy the updated Javascript into the script in your application as described in the respective repo
 
 ### Updating Javascript
