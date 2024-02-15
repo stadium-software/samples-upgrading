@@ -45,7 +45,7 @@ In order to update a module:
 
 4. Commit changes you made to the CSS variables file using 'git commit -m "my message"'
 
-![](images/GitCommit.png)
+![](images/GitCommit_.png)
 
 5. Pull the latest repo using 'git pull'
 
