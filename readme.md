@@ -14,7 +14,7 @@ For all repos you want to use in a given applications, perform the following ste
 
 ![](images/GitClone.png)
 
-![](images/ApplicationExplorer.png)
+![](images/WindowsExplorer.png)
 
 2. Change ONLY the variables in the CSS variables file, usually called something like *module-variables.css*
 3. Do not 
