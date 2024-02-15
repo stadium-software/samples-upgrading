@@ -51,9 +51,9 @@ In order to update a module:
 
 ![](images/GitPull.png)
 
-6. Merge changes if necessary (If you have made changes beyond the variables, you will now have to deal with merge conflicts. This can be a terribly annoying and somewhat messy operation. In this case I recommend that you backup your changes first.)
+6. If changes were made to the repo, Git will merge them into your local repo (If you have made changes beyond the variables, you will now have to deal with merge conflicts. This can be a terribly annoying and somewhat messy operation. In this case I recommend that you backup your changes first and consule the [documentation](https://git-scm.com/docs/git-merge))
 
-![]()
+![](images/GitPullWithMerge.png)
 
 7. Finally
    1. Copy all updated CSS files into the application as described in the respective repo
