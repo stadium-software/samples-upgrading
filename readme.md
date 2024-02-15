@@ -69,3 +69,7 @@ All Javascript starts with a version comment. If the version of this script you 
 I am happy about every bug we find as it gives me the opportunity to make the module better! If you find a bug in a module, please let me know by [logging an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) in the Github Issues section of the respective repo. 
  
 If you feel you can change the code yourself, please [add a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request-with-a-merge-queue#adding-a-pull-request-to-a-merge-queue) and I will review your fix! 
+
+## Git Docs
+1. [Git CSM](https://git-scm.com/docs)
+2. [GitHub Docs](https://docs.github.com/en)
