@@ -2,6 +2,15 @@
 
 This document pertains to all repos listed on the [module repos](https://github.com/stadium-software/modules) page. 
 
+- [Using and updating application repos](#using-and-updating-application-repos)
+  - [Prerequisites](#prerequisites)
+  - [Working with repos](#working-with-repos)
+  - [Updating module assets](#updating-module-assets)
+    - [Updating Javascript](#updating-javascript)
+  - [Repo bugs](#repo-bugs)
+  - [Staying up-to-date](#staying-up-to-date)
+  - [Git Docs](#git-docs)
+
 ## Prerequisites
 The most convenient way to work with Github repos is to use [Git](https://education.github.com/git-cheat-sheet-education.pdf). Install it if you don't have it yet. 
 
