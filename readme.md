@@ -8,7 +8,7 @@ This document pertains to all repos listed on the [module repos](https://github.
   - [Updating module assets](#updating-module-assets)
     - [Updating Javascript](#updating-javascript)
   - [Repo bugs](#repo-bugs)
-  - [Staying up-to-date](#staying-up-to-date)
+  - [Watching repos](#watching-repos)
   - [Git Docs](#git-docs)
 
 ## Prerequisites
@@ -79,8 +79,8 @@ I am happy about every bug we find as it gives me the opportunity to make the mo
  
 If you feel you can change the code yourself, please [add a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request-with-a-merge-queue#adding-a-pull-request-to-a-merge-queue) and I will review your fix! 
 
-## Staying up-to-date
-In order to get notified when the Github repo changes, select the "Watch" button on the repo page and select the "All activity" option. 
+## Watching repos
+In order to get notified when the Github repo changes, select the "Watch" button on the repo page and select the "All activity" option. This will ensure that you are made aware of updates as soon as they are released. 
 
 ## Git Docs
 1. [Git CSM](https://git-scm.com/docs)
