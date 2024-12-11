@@ -2,10 +2,6 @@
 
 This document pertains to all repos listed on the [module repos](https://github.com/stadium-software/modules) page. 
 
-**NOTE**
-
-Never change any Javascript and only customise CSS in adherence with the [guidelines](#working-with-repos). If you come across a bug in any repo, please [report it](#repo-bugs) to me. 
-
 - [Using and updating application repos](#using-and-updating-application-repos)
   - [Prerequisites](#prerequisites)
   - [Working with repos](#working-with-repos)
@@ -14,6 +10,10 @@ Never change any Javascript and only customise CSS in adherence with the [guidel
   - [Repo bugs](#repo-bugs)
   - [Watching repos](#watching-repos)
   - [Git Docs](#git-docs)
+
+**NOTE**
+
+Never change any Javascript and only customise CSS in adherence with the [guidelines](#working-with-repos). If you come across a bug in any repo, please [report it](#repo-bugs) to me. 
 
 ## Prerequisites
 The most convenient way to work with Github repos is to use [Git](https://education.github.com/git-cheat-sheet-education.pdf). Install it if you don't have it yet. 
