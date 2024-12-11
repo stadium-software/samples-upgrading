@@ -4,7 +4,7 @@ This document pertains to all repos listed on the [module repos](https://github.
 
 **NOTE**
 
-Never change any Javascript and only customise CSS in adherence with the [guidelines](#working-with-repos). If you come across a bug, please [report it](#repo-bugs) to me. 
+Never change any Javascript and only customise CSS in adherence with the [guidelines](#working-with-repos). If you come across a bug in any repo, please [report it](#repo-bugs) to me. 
 
 - [Using and updating application repos](#using-and-updating-application-repos)
   - [Prerequisites](#prerequisites)
