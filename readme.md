@@ -11,7 +11,7 @@ This document pertains to all repos listed on the [module repos](https://github.
   - [Watching repos](#watching-repos)
   - [Git Docs](#git-docs)
 
-**NOTE**
+**IMPORTANT**
 
 Never change any Javascript and only customise CSS in adherence with the [guidelines](#working-with-repos). If you come across a bug in any repo, please [report it](#repo-bugs) to me. 
 
