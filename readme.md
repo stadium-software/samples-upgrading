@@ -2,6 +2,10 @@
 
 This document pertains to all repos listed on the [module repos](https://github.com/stadium-software/modules) page. 
 
+**NOTE**
+
+Never change any Javascript and only customise CSS in adherence with the [guidelines](#working-with-repos). If you come across a bug, please [report it](#repo-bugs) to me. 
+
 - [Using and updating application repos](#using-and-updating-application-repos)
   - [Prerequisites](#prerequisites)
   - [Working with repos](#working-with-repos)
@@ -30,6 +34,7 @@ For all repos you want to use in a given applications, perform the following ste
    1. Add or remove empty lines in the CSS files or the Javascript
    2. Do not add new variables to the CSS files
    3. Do not remove any of the existing variables from the CSS files
+   4. Do not change any of the Javascript
 
 ![](images/EditableElements.png)
 
@@ -71,6 +76,8 @@ In order to update a module:
 
 ### Updating Javascript
 All Javascript starts with a version comment. If the version of this script you are using in your application is different, you may want to update the script. Please note that sometimes newer versions of scripts require more or fewer parameters. 
+
+Never change any of the script yourself. If you come across a bug, please [report it](#repo-bugs) to me. 
 
 ![](images/ScriptVersions.png)
 
